@@ -1,2 +1,2 @@
 # Personal-website
-Personal Website
+Personal Website made using JS, HTML and CSS
