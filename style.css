@@ -542,7 +542,7 @@ article .icon {
 }
 
 .blog-container {
-  max-height: 600px; /* Limit height for scrolling */
+  max-height: 500px; /* Limit height for scrolling */
   overflow-y: auto;
   display: flex;
   flex-direction: column;
