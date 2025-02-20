@@ -22,7 +22,7 @@ class BlogPage {
             class: "arrowLeft",
         });
         arrowLeft.addEventListener("click", (e) => {
-            window.location.href = "/main"; // Redirects to main page
+            window.location.href = "\Personal-website\main"; // Redirects to main page
         })
         const titleContainer = el('div.title-container', [arrowLeft, title])
         this.el = el('div.blog-page', [titleContainer]);
