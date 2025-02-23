@@ -1,12 +1,12 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/Personal-website',
+  base: '/Personal-website/',
   build: {
     rollupOptions: {
       input: {
         main: 'index.html',
-        blog: 'blog.html' // Explicitly define `blog.html`
+        blog: 'blog.html',
       }
     }
   },
