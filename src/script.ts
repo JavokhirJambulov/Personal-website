@@ -6,7 +6,3 @@ function toggleMenu() {
     icon.classList.toggle("open");
   }
 }
-
-// function openBlog(){
-
-// }

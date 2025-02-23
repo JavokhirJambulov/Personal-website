@@ -7,3 +7,4 @@ function toggleMenu() {
         icon.classList.toggle("open");
     }
 }
+//# sourceMappingURL=script.js.map

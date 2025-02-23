@@ -66,7 +66,6 @@ class BlogPage {
 
 // Mount blog page to the container
 const blogContainer = document.getElementById('blog-container');
-console.log(blogContainer)
 if (blogContainer) {
     mount(blogContainer, new BlogPage());
 }
